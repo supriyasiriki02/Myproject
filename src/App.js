@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Feature from './feature';
 
 function App() {
   return (
