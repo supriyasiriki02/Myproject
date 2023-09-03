@@ -1,8 +1,9 @@
-const Feature =()=>{
+const Feature = ()=>{
     return(
         <>
-        THis is the Feature Component
+            This is the new Feature Branch
         </>
     )
 }
+
 export default Feature;

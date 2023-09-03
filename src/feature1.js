@@ -1,7 +1,7 @@
 const Feature1 =()=>{
     return(
         <>
-        THis sasasas is the Feature Component
+        THis is the Feature1 Component
         </>
     )
 }
